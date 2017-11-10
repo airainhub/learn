@@ -15,23 +15,21 @@
 > 引用内容
 
 ## 段落
-123456
+123456\n
 回车即可
 
-##分割线
----
-这是分割线
+## 分割线
 ---
 这是分割线
 
 ## 链接
 ### 超链接
-[链接www.airainhub.com](www.baidu.com)
+[链接www.baidu.com](https://www.baidu.com)
 ### 图片链接
-1. 图片名称和地址
-![简书](http://upload-images.jianshu.io/upload_images/95646-5bfd0cecf587c766.png)
-2. HTML的方式
-<img src="http://upload-images.jianshu.io/upload_images/95646-5bfd0cecf587c766.png" width="300px" height="240px" alt="简书">
+* 图片名称和地址
+* ![简书](http://upload-images.jianshu.io/upload_images/95646-5bfd0cecf587c766.png)
+* HTML的方式
+* <img src="http://upload-images.jianshu.io/upload_images/95646-5bfd0cecf587c766.png" width="300px" height="240px" alt="简书">
 
 ## 代码段
 ```
@@ -39,11 +37,11 @@ log.info("hello world!");
 ```
 
 ## 字体演示
-*倾斜*
-**加粗**
-***倾斜并加粗***
++ *倾斜*
++ **加粗**
++ ***倾斜并加粗***
 
-##表格
+## 表格
 
 表头1|表头2|表头3
 :-----|:-----:|-----:
